@@ -1,4 +1,4 @@
-### WhatsApp MD User Bot
+### WhatsApp wasi User Bot
 
 A simple WhatsApp User bot.
 
